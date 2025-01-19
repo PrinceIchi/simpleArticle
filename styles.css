@@ -1,0 +1,33 @@
+html {
+    background-image: url("images/space.jpg");
+    background-size: cover;
+}
+
+#main-box {
+    width: 50rem;
+    height: 20rem;
+    padding: 5rem;
+    border: 10px solid darkslateblue;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+
+#cloud img{
+width: 150px;
+height: 150px;
+margin: -0px 0 0 -0px;
+}
+
+#cloud {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+img {
+    width: 250px;
+    border-radius: 8px;
+}
